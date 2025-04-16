@@ -22,7 +22,7 @@
     "serverless:deploy": "serverless deploy"
   },
   "dependencies": {
-    "@nestjs/common": "^9.0.0",
+    "@nestjs/common": "^11.0.16",
     "@nestjs/config": "^2.2.0",
     "@nestjs/core": "^9.0.0",
     "@nestjs/jwt": "^9.0.0",
